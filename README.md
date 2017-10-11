@@ -1,2 +1,2 @@
 # vg_account_confirm
-vg_account_confirm
+bae3183fcbb2268571ae08b7887ccea219aa7cf3c74d0e53aa4feec0a20b97d3
